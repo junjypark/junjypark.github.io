@@ -8,7 +8,6 @@ group :jekyll_plugins do
     gem 'jekyll-github-metadata'
     gem 'jekyll-imagemagick'
     gem 'jekyll-paginate-v2'
-    gem 'github-pages'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
