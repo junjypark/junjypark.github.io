@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: teaching
+title: students
 order: 2
 description: 
 nav: true
