@@ -32,4 +32,4 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 ### Former students
 
-**Xiaoli Yang (undergraduate RA, 2021)** Currently a MS Statistics/Data Science student at Stanford.
+**Xiaoli Yang (undergraduate RA (2021))** Currently a MS Statistics/Data Science student at Stanford.
