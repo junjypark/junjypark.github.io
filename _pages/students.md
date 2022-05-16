@@ -26,7 +26,7 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 {% include figure.html path="assets/img/RuyiPan.png" title="Ruyi Pan" class="img-fluid rounded z-depth-1" %}
 
-**Linxi Chen (undergraduate researcher (2022)**
+**Linxi Chen (undergraduate researcher (2022))**
 
 **Zhengdan Li (undergraduate researcher (2022))**
 
