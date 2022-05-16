@@ -25,6 +25,6 @@ I develop statistical methods for neuroimaging and genetic data. Especially, my 
 
 My [Curriculum Vitae](https://github.com/junjypark/junjypark.github.io/blob/master/assets/pdf/JunYoung_Park(CurriculumVitae).pdf) is available in the link. My research is being supported by Natural Sciences and Engineering Research Council of Canada (NSERC) and the University of Toronto's Data Science institute.
 
-### **Open positions**
+### Open positions
 
 Please visit [this page](https://junjypark.github.io/openpositions/) first for availabilities.
