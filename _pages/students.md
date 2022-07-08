@@ -28,7 +28,7 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 **Linxi Chen (undergraduate researcher (2022))**
 
-**Zhengdan Li (undergraduate researcher (2022))**
+**Zhengdan Li (undergraduate researcher (2022))** [Personal Website](https://avery7li.github.io/)
 
 ### Former students
 
