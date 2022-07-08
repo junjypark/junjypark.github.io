@@ -21,14 +21,15 @@ I am a Ph.D. student in the Department of Statistical Sciences at the University
 
 After studying Statistics at the Pennsylvania State University and the University of California, Santa Barbara, I joined the Statistical Genetics team at Ambry Genetics, a commercial genetic testing lab. There, I gained hands-on experience with real-world clinical and genetics data. To further build my expertise in Statistical Genetics and Biostatistics, I am drawn to learn more, striving to work with my supervisors, Prof. Park and [Prof. Gronsbell](https://sites.google.com/view/jgronsbell/home?authuser=0), at the forefront of discovery and implementation in ways only available in academia.
 
-
 **Ruyi Pan (PhD student, 2022-present)**
 
 {% include figure.html path="assets/img/RuyiPan.png" title="Ruyi Pan" class="img-fluid rounded z-depth-1" %}
 
+**David Veitch (PhD student, 2022-present)** [Personal website](https://daveveitch.github.io/)
+
 **Linxi Chen (undergraduate researcher (2022))**
 
-**Zhengdan Li (undergraduate researcher (2022))** [Personal Website](https://avery7li.github.io/)
+**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/)
 
 ### Former students
 
