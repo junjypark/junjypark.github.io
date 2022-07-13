@@ -27,6 +27,8 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 **David Veitch (PhD student, 2022-present)** [Personal website](https://daveveitch.github.io/)
 
+{% include figure.html path="assets/img/DavidVeitch.png" title="Ruyi Pan" class="img-fluid rounded z-depth-1" %}
+
 **Linxi Chen (undergraduate researcher (2022))**
 
 **Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/)
