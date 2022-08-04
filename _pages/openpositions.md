@@ -17,7 +17,7 @@ Interested candidates are encouraged to contact me with project availabilities. 
 
 I have Ph.D. student openings in Statistical Sciences and Psychology at the University of Toronto. All admitted students are financially fully supported during the program. Applicants must apply directly to the graduate program by November, and indicate me as a preferred supervisor.
 
-Interested applicants are welcome to contact me with research interests. Please attach your CV. Applicants with strong quantitative backgrounds and strong interests in making scientific contributions are particularly encouraged to apply. A master's degree is not a requirement for the Ph.D program.
+Interested applicants are welcome to contact me with research interests. Please attach your CV. Applicants with strong quantitative backgrounds and strong interests in making scientific contributions are particularly encouraged to apply. A master's degree is not a requirement for the Ph.D program. Some background in programming (e.g. coursework in CS), although not required, will be beneficial.
 
 **Opportunities for current undergraduate students at University of Toronto**
 
