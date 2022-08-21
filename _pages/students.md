@@ -30,10 +30,11 @@ After studying Statistics at the Pennsylvania State University and the Universit
 {% include figure.html path="assets/img/DavidVeitch.png" title="David Veitch" class="img-fluid rounded z-depth-1" %}
 
 
-**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/)
 
 ### Former students
 
 **Xiaoli Yang (undergraduate RA (2021))** Currently a MS Statistics/Data Science student at Stanford.
 
-**Linxi Chen (undergraduate researcher (2022))**
+**Linxi Chen (undergraduate researcher (2022))** Currently a MS Statistics student at Oxford.
+
+**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/) Currently a MS Statistics/Data Science student at Stanford.
