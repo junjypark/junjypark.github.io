@@ -25,6 +25,8 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 {% include figure.html path="assets/img/RuyiPan.png" title="Ruyi Pan" class="img-fluid rounded z-depth-1" %}
 
+I’m a PhD Student in the Department of Statistical Sciences at the University of Toronto. My supervisors are Prof. Park, [Prof. Reid](https://utstat.toronto.edu/reid/index.html), and [Dr. Voineskos](http://imaging-genetics.camh.ca/). My research interests are high-dimensional statistics and statistics theory. Now, I am focusing on neuroimaging data analysis. I previously completed MSc in statistics at the University of Toronto and BA in computer science at the University of Waterloo.
+
 **David Veitch (PhD student, 2022-present)** [Personal website](https://daveveitch.github.io/)
 
 {% include figure.html path="assets/img/DavidVeitch.png" title="David Veitch" class="img-fluid rounded z-depth-1" %}
