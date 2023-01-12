@@ -24,6 +24,7 @@ nav: true
     * Course evaluations in [2021](https://course-evals.utoronto.ca/blue/rvg-eng.aspx?lang=eng&redi=1&SelectedIDforPrint=2cead4cfb3c144c048f96794d067cd57317421f560316d3fb002a0090abd8a4f7fc5f26f4c30a1913e49b2f470ec5ce7&ReportType=2&UID=b6f9c81df059f1874593c496bbff91e7&regl=en-us&IsReportLandscape=False), [2022](https://course-evals.utoronto.ca/blue/rvg-eng.aspx?lang=eng&redi=1&SelectedIDforPrint=fc8fe112bfac021be8cf4b676f62234bd8b7e51ea28eb861308ddf18c994cd81c3a8a303e0ddbd4b2fbec946687c825b&ReportType=2&UID=b6f9c81df059f1874593c496bbff91e7&regl=en-US&IsReportLandscape=False)
 
 - **STA442 Methods of Applied Statistics** 
+    * Syllabus in [2022](https://github.com/junjypark/junjypark.github.io/blob/master/assets/pdf/STA442_Syallbus_Fall2022.pdf)
     * Course evaluations in [2022](https://course-evals.utoronto.ca/blue/rvg-eng.aspx?lang=eng&rid=4fce6bdb-6b91-43f1-bc05-ee93ec766ea2&uid=b6f9c81df059f1874593c496bbff91e7&regl=en-US&redi=1&SelectedIDforPrint=f310707477dde0b38a1032f4efc71e4afe2240e395ef2513e5ca6ab36530c86f73172ffad815fe2046293e764dd3100f&ReportType=2&IsReportLandscape=False)
 
 - **PSY305 Treatment of Psychological Data** (will be offered in Winter 2023)
