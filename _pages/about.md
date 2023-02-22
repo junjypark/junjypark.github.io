@@ -7,7 +7,7 @@ subtitle: <a href="https://www.statistics.utoronto.ca/people/directories/all-fac
 
 profile:
   align: right
-  image: photo1.png
+  image: junyoungpark1.jpeg
   address: >
     <p>Office 9085</p>
     <p>700 University Ave</p>
