@@ -29,7 +29,7 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 *Achievements*
 
-- STAGE trainee (https://stage.utoronto.ca/)
+- [STAGE trainee](https://stage.utoronto.ca/)
 
 - University of Toronto Arts \& Science Recognition of Excellence Award
 
