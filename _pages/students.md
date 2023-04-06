@@ -31,7 +31,7 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 - [STAGE trainee](https://stage.utoronto.ca/)
 
-- University of Toronto Arts \& Science Recognition of Excellence Award
+- University of Toronto Arts and Science Recognition of Excellence Award
 
 **Ruyi Pan (PhD student, 2022-present)**
 
@@ -43,7 +43,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 - Andrews Academic Achievement Award, Department of Statistical Sciences
 
-- University of Toronto Arts \& Science Recognition of Excellence Award
+- University of Toronto Arts and Science Recognition of Excellence Award
 
 
 **David Veitch (PhD student, 2022-present)** [Personal website](https://daveveitch.github.io/)
