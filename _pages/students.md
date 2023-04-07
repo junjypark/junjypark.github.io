@@ -41,7 +41,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 *Achievements*
 
-- Andrews Academic Achievement Award, Department of Statistical Sciences
+- [Andrews Academic Achievement Award](https://www.statistics.utoronto.ca/news/congratulations-our-2021-graduate-student-departmental-award-winners), Department of Statistical Sciences
 
 - University of Toronto Arts and Science Recognition of Excellence Award
 
@@ -54,7 +54,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 - [Data Science Institute's Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-student-fellowship/)
 
-- Ontario Graduate Scholarship
+- [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html)
 
 - Andrews Academic Achievement Award, Department of Statistical Sciences
 
