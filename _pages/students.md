@@ -56,7 +56,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 - [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html)
 
-- Andrews Academic Achievement Award, Department of Statistical Sciences
+- [Andrews Academic Achievement Award](https://www.statistics.utoronto.ca/awards/andrews-academic-achievement-award), Department of Statistical Sciences
 
 - Vector Scholarship in Artificial Intelligence
 
