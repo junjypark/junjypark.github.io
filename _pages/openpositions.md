@@ -29,7 +29,7 @@ I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where
 
 - Prior research experience is not needed. However, it will be valuable for evaluating whether you fit my research philosophy.
 
-*Note for prospective PhD student in Psychology*
+*Note for prospective PhD students in Psychology*
 
 Please keep in mind that my current research program requires more training in quantitative fields (Statistics/Mathematics/CS) than what we usually expect from prospective PhD students in Psychology. It is recommended to read over my previous research before contacting me.
 
