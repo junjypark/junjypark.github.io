@@ -15,7 +15,7 @@ Interested candidates are encouraged to contact me with project availabilities. 
 
 ​**PhD student**
 
-I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where both domestic and international students are eligible. A master's degree is not a requirement for the Ph.D program, and all admitted students are financially fully supported during the program. Applicants must apply directly to the [graduate program](https://www.statistics.utoronto.ca/graduate/how-to-apply) by November and indicate me as a preferred supervisor. Prospective students interested in working with me are welcome to contact me with research interests. Please attach your CV and academic records (i.e. unofficial transcripts). 
+I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where both domestic and international applicants are eligible. A master's degree is not a requirement for the Ph.D program, and all admitted students are financially fully supported during the program. Applicants must apply directly to the [graduate program](https://www.statistics.utoronto.ca/graduate/how-to-apply) by November and indicate me as a preferred supervisor. Prospective students interested in working with me are welcome to contact me with research interests. Please attach your CV and academic records (i.e. unofficial transcripts). 
 
 *What I look for*
 
