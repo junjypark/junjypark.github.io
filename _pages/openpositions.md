@@ -19,7 +19,7 @@ I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where
 
 *What I look for*
 
-- My research philosophy is summarized by a popular phrase: *cool head and warm heart*. It means that I seek to develop solid statistical methods that would lead to scientific advances. Applicants with strong quantitative backgrounds and strong interests in making scientific contributions are encouraged to apply. 
+- My research philosophy is summarized by a popular phrase: *cool head and warm heart*, meaning that I seek to develop solid statistical methods that would lead to scientific advances. Applicants with strong quantitative backgrounds and interests in making scientific contributions are encouraged to apply. 
 
 - Solid background in calculus is a must (like most other statistics PhD programs). I also expect that you have taken (calculus-based) probability and statistical inference.
 
