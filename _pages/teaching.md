@@ -27,4 +27,6 @@ nav: true
     * Syllabus in [2022](https://github.com/junjypark/junjypark.github.io/blob/master/assets/pdf/STA442_Syallbus_Fall2022.pdf)
     * Course evaluations in [2022](https://course-evals.utoronto.ca/blue/rvg-eng.aspx?lang=eng&rid=4fce6bdb-6b91-43f1-bc05-ee93ec766ea2&uid=b6f9c81df059f1874593c496bbff91e7&regl=en-US&redi=1&SelectedIDforPrint=f310707477dde0b38a1032f4efc71e4afe2240e395ef2513e5ca6ab36530c86f73172ffad815fe2046293e764dd3100f&ReportType=2&IsReportLandscape=False)
 
-- **PSY305 Treatment of Psychological Data** (will be offered in Winter 2023)
+- **PSY305 Treatment of Psychological Data**
+    * Course evaluations in [2023](https://course-evals.utoronto.ca/blue/rvg-eng.aspx?lang=eng&rid=734226b6-a797-4ca6-8003-9fc006e9ee56&uid=b6f9c81df059f1874593c496bbff91e7&regl=en-US&redi=1&SelectedIDforPrint=3c874d3c478c8958341caedca582a4ca8ff836ac8d4b541c2afc67a9b2056f130bb8632d312467ce809b0270010928e2&ReportType=2&IsReportLandscape=False)
+
