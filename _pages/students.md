@@ -50,6 +50,9 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 {% include figure.html path="assets/img/DavidVeitch.png" title="David Veitch" class="img-fluid rounded z-depth-1" %}
 
+I am a PhD candidate in statistics at the University of Toronto co-supervised by Professor Jun Young Park and Professor Zhou Zhou. My research interests are in neuroimaging data analysis, and non-stationary time series. Prior to my current studies I obtained my MSc in Statistics at UofT, completed my undergraduate degree in Commerce at Queen’s University, and worked as a fixed-income trader at Bank of America. My PhD studies are generously supported by the Data Sciences Institute at the University of Toronto.
+
+
 *Achievements*
 
 - [Data Science Institute's Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-student-fellowship/)
