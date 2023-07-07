@@ -9,7 +9,7 @@ nav: true
 
 ### Current students
 
-**Rongqian Zhang (PhD student, 2021-present)**
+**Rongqian Zhang (PhD candidate, 2021-present)**
 
 {% include figure.html path="assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
 
@@ -21,7 +21,7 @@ I am a Ph.D. student in the Department of Statistical Sciences at the University
 
 - Student paper award (runner-up) in Statistical Methods in Imaging (SMI) Conference 2022
 
-**Yuan Tian (PhD student, 2021-present)**
+**Yuan Tian (PhD candidate, 2021-present)**
 
 {% include figure.html path="assets/img/YuanTian.jpeg" title="Yuan Tian" class="img-fluid rounded z-depth-1" %}
 
@@ -46,7 +46,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 - University of Toronto Arts and Science Recognition of Excellence Award
 
 
-**David Veitch (PhD student, 2022-present)** [Personal website](https://daveveitch.github.io/)
+**David Veitch (PhD candidate, 2022-present)** [Personal website](https://daveveitch.github.io/)
 
 {% include figure.html path="assets/img/DavidVeitch.png" title="David Veitch" class="img-fluid rounded z-depth-1" %}
 
@@ -65,8 +65,8 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 ### Former students
 
-**Xiaoli Yang (undergraduate RA (2021))** Currently a MS Statistics/Data Science student at Stanford.
+**Xiaoli Yang (undergraduate RA (2021))** -> MS Statistics/Data Science at Stanford.
 
-**Linxi Chen (undergraduate researcher (2022))** Currently a MS Statistics student at Oxford.
+**Linxi Chen (undergraduate researcher (2022))** -> MS Statistics at Oxford.
 
-**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/) Currently a MS Statistics/Data Science student at Stanford.
+**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/) -> MS Statistics/Data Science at Stanford.
