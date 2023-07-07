@@ -7,15 +7,14 @@ description:
 nav: true
 ---
 
-**Postdoc**
 
-I have one postdoctoral position available for developing statistical methods in neuroimaging or genetics/genomics. It is usually supported by the University of Toronto [link1](https://www.sgs.utoronto.ca/awards/arts-science-postdoctoral-fellowship-program/), [link2](https://www.sgs.utoronto.ca/awards/provosts-postdoctoral-fellowship-program/), [link3](https://datasciences.utoronto.ca/data-sciences-institute-postdoctoral-fellowships/)), CANSSI Ontario ([link1](https://canssiontario.utoronto.ca/canssi-ontario-postdoctoral-fellowship-in-theoretical-statistics/), [link2](https://canssiontario.utoronto.ca/ontario-genomics-canssi-ontario-pdf/)), or Banting ([link](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)), where candidates must apply directly for the support.
+**Joining the group as a postdoc**
 
-Interested candidates are encouraged to contact me with project availabilities. Please attach your CV. A PhD degree in Statistics/Biostatistics/Quantitative Psychology/Computational Neuroscience is an ideal background, but I'm open to other qualifications.
+I currently do not have open positions, but it changes on a rotating basis. If you are interested, please send me your CV and names of 3 references. 
 
-​**PhD student**
+​**Joining the group as a PhD student**
 
-I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where both domestic and international applicants are eligible. A master's degree is not a requirement for the Ph.D program, and all admitted students are financially fully supported during the program. Applicants must apply directly to the [graduate program](https://www.statistics.utoronto.ca/graduate/how-to-apply) by November and indicate me as a preferred supervisor. Prospective students interested in working with me are welcome to contact me with research interests. Please attach your CV and academic records (i.e. unofficial transcripts). 
+I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where both domestic and international applicants are eligible. Prospective students must apply directly to the graduate program by November and indicate me as a preferred supervisor. If you are interested in working with me, please attach (i) your CV, (ii) academic records (i.e. unofficial transcripts), and (iii) a brief statement describing your research interest. 
 
 *What I look for*
 
@@ -31,9 +30,9 @@ I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where
 
 *Note for prospective PhD students in Psychology*
 
-Please keep in mind that my current research program requires more training in quantitative fields (Statistics/Mathematics/CS) than what we usually expect from prospective PhD students in Psychology. It is recommended to read over my previous research before contacting me.
+Please note that my current research program requires more training in quantitative fields (Statistics/Mathematics/CS) than what we usually expect from prospective PhD students in Psychology. It is recommended to read over my previous research before contacting me.
 
-**Opportunities for current undergraduate students at the University of Toronto**
+​**Joining the group as a master's or undergraduate student**
 
-Depending on project availabilities, I might have openings for undergraduate researchers/research assistants. They are usually supported by NSERC ([link](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)), University of Toronto ([link1](https://datasciences.utoronto.ca/suds/), [link2](https://www.enrolment.utoronto.ca/2022-university-of-toronto-excellence-award-utea/)), and Department of Statistical Sciences ([link](https://www.statistics.utoronto.ca/current-students/research-opportunities-scholarships-awards)). I currently do not consider unpaid volunteers, but please contact me if you're interested in a reading course.
+Depending on project availabilities, I might have openings for paid research assistants. I currently do not consider unpaid volunteers, but please contact me if you're interested in a reading course. In Fall 2023, I don't have any plans to supervise reading courses.
 
