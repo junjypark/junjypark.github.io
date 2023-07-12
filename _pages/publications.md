@@ -8,7 +8,7 @@ years: [2023, 2022, 2021, 2020, 2018]
 nav: true
 ---
 
-Please see [the Google Schloar](https://scholar.google.com/citations?hl=en&user=Ro9JqbEAAAAJ&view_op=list_works&sortby=pubdate) page for most recent updates.
+Please see [Google Schloar](https://scholar.google.com/citations?hl=en&user=Ro9JqbEAAAAJ&view_op=list_works&sortby=pubdate) page for the most recent updates.
 
 <!-- _pages/publications.md -->
 <div class="publications">
