@@ -4,4 +4,4 @@ date: 2023-07-12
 inline: true
 ---
 
-Grateful to be supported by the Connaught New Researcher Award!
+Grateful to be supported by the [Connaught New Researcher Award](https://connaught.research.utoronto.ca/opportunities)!
