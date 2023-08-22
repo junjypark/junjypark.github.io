@@ -65,6 +65,9 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 - Vector Scholarship in Artificial Intelligence
 
+**Hainan Xu (Research Assistant, 2023-present)** 
+
+
 ### Former students
 
 **Xiaoli Yang (undergraduate RA (2021))** -> MS Statistics/Data Science at Stanford.
