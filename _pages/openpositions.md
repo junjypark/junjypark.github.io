@@ -22,11 +22,11 @@ I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where
 
 - Solid background in calculus is a must (like most other statistics PhD programs). I also expect that you have taken (calculus-based) probability and statistical inference.
 
-- Courses in proof-based linear algebra real analysis will be considered very favorably.
+- Courses in proof-based linear algebra and real analysis will be considered very favorably.
 
-- Some background in programming (e.g. coursework in CS), although not required, will be beneficial.
+- Some background in programming (e.g. coursework in CS), although not required, will be very beneficial.
 
-- Prior research experience is not needed. However, it will be valuable for evaluating whether you fit my research philosophy.
+- Prior research experience is not needed. However, it will be valuable for evaluating yourself whether you fit my research philosophy.
 
 *Note for prospective PhD students in Psychology*
 
