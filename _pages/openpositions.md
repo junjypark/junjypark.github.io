@@ -24,7 +24,7 @@ I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where
 
 - Courses in proof-based linear algebra and real analysis will be considered very favorably.
 
-- Some background in programming (e.g. coursework in CS), although not required, will be very beneficial.
+- Background in programming (e.g. coursework in CS), although not required, will be very beneficial.
 
 - Prior research experience is not needed. However, it will be valuable for evaluating yourself whether you fit my research philosophy.
 
