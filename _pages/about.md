@@ -21,10 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am an assistant professor at the University of Toronto, Department of Statistical Sciences and Department of Psychology. I received my Ph.D. in Biostatistics at the University of Minnesota in 2020 and B.A. in Mathematics/Statistics at Carleton College in 2012. 
 
-I develop statistical methods for neuroimaging and genetic data. My research focus is developing statistical modeling and inference procedures to account for several layers of correlation structures, including spatial, temporal, and functional dependencies.
+I develop statistical and machine learning methods for neuroimaging and genetic data. My research focuses on developing high-dimensional statistical modeling and inference procedures to account for several layers of correlation structures, including spatial, temporal, and functional dependencies, which are critical to improve replicability in datasets with low signal-to-noise ratios.
 
 My [Curriculum Vitae](https://github.com/junjypark/junjypark.github.io/blob/master/assets/pdf/JunYoung_Park(CurriculumVitae).pdf) is available in the link. My research is being supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), the University of Toronto's Data Science Institute, McLaughlin Centre, and the Connaught New Researcher Award.
 
 ### Open positions
 
-Please visit [this page](https://junjypark.github.io/openpositions/) first for availabilities.
+We are seeking (up to) two PhD students in the 2023-24 admission cycle. Please visit [this page](https://junjypark.github.io/openpositions/) for details.
