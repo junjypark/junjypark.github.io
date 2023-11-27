@@ -33,7 +33,7 @@ After studying Statistics at the Pennsylvania State University and the Universit
 
 - University of Toronto Arts and Science Recognition of Excellence Award
 
-**Ruyi Pan (PhD student, 2022-present)**
+**Ruyi Pan (PhD candidate, 2022-present)**
 
 {% include figure.html path="assets/img/RuyiPan.png" title="Ruyi Pan" class="img-fluid rounded z-depth-1" %}
 
