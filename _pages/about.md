@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor at the University of Toronto, Department of Statistical Sciences and Department of Psychology. I received my Ph.D. in Biostatistics at the University of Minnesota in 2020 and B.A. in Mathematics/Statistics at Carleton College in 2012. 
+I am an assistant professor at the University of Toronto, Department of Statistical Sciences and Department of Psychology. I received my Ph.D. in Biostatistics at the University of Minnesota in 2020 (under supervision of Dr. Mark Fiecas) and B.A. in Mathematics/Statistics at Carleton College in 2012. 
 
 I develop statistical and machine learning methods for neuroimaging and genetic data. My research focuses on developing high-dimensional statistical modeling and inference procedures to account for several layers of correlation structures, including spatial, temporal, and functional dependencies, which are critical to improve replicability in datasets with low signal-to-noise ratios.
 
