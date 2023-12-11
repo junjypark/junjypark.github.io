@@ -56,7 +56,6 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 
 *Achievements*
-
 - [ENAR 2024 distinguished student paper award](https://www.enar.org/meetings/StudentPaperAwards/index.cfm)
 
 - [Data Science Institute's Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-student-fellowship/)
