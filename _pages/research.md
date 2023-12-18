@@ -17,7 +17,7 @@ nav: true
 
 - Park, J. Y., Fiecas, M. for the Alzheimer's Disease Neuroimaging Initiative. (2021). Permutation-based inference for spatially localized signals in longitudinal MRI data. NeuroImage, 239, 118312.
 
-**Integration of multi-view data**
+### Integration of multi-view data
 
 - Park, J. Y.,  Lock, E. F. (2020). Integrative factorization of bidimensionally linked matrices. Biometrics, 76(1), 61-74.
 
