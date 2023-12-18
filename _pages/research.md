@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-**Spatial-extent inference**
+### Spatial-extent inference
 
 - Park, J. Y., Fiecas, M. (2022). CLEAN: Leveraging spatial autocorrelation in neuroimaging data in clusterwise inference. NeuroImage, 255, 119192.
 
@@ -23,19 +23,19 @@ nav: true
 
 - Lock, E. F., Park, J. Y.,  Hoadley, K. A. (2022). Bidimensional linked matrix factorization for pan-omics pan-cancer analysis. The annals of applied statistics, 16(1), 193.
 
-**Data harmonization**
+### Data harmonization
 
 - Zhang, R., Oliver, L. D., Voineskos, A. N.,  Park, J. Y. (2023). RELIEF: A structured multivariate approach for removal of latent inter-scanner effects. Imaging Neuroscience, 1, 1-16.
 
 - Zhang, R., Chen, L., Oliver, L. D., Voineskos, A. N.,  Park, J. Y. (2023). SAN: mitigating spatial covariance heterogeneity in cortical thickness data collected from multiple scanners or sites. bioRxiv, 2023-12.
 
-**Time series**
+### Time series
 
 - Veitch, D., He, Y.,  Park, J. Y. (2023). Rank-adaptive covariance changepoint detection for estimating dynamic functional connectivity from fMRI data. arXiv preprint arXiv:2309.10284.
 
 - Park, J. Y., Polzehl, J., Chatterjee, S., Brechmann, A., Fiecas, M. (2020). Semiparametric modeling of time-varying activation and connectivity in task-based fMRI data. Computational Statistics & Data Analysis, 150, 107006.
 
-​**Statistical genetics**
+### Statistical genetics 
 
 - Park, J. Y., Wu, C., Basu, S., McGue, M.,  Pan, W. (2018). Adaptive SNP-set association testing in generalized linear mixed models with application to family studies. Behavior genetics, 48, 55-66.
 
