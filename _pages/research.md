@@ -9,7 +9,7 @@ nav: true
 
 ### Spatial-extent inference
 
-{% include figure.html path="assets/img/research_spatial.png" title="research_spatial"  class="img-fluid"  %}
+{% include figure.html path="assets/img/research_spatial.png" title="research_spatial"  class="img-fluid z-depth-1"  %}
 
 
 *References*
@@ -24,7 +24,7 @@ nav: true
 
 ### Integration of multi-view data
 
-{% include figure.html path="assets/img/research_multi.png" title="research_multi"    class="img-fluid" %}
+{% include figure.html path="assets/img/research_multi.png" title="research_multi"    class="img-fluid z-depth-1" %}
 
 *References*
 
@@ -35,7 +35,7 @@ nav: true
 
 ### Data harmonization
 
-{% include figure.html path="assets/img/research_harmonization.png" title="research_harmonization"   class="img-fluid" %}
+{% include figure.html path="assets/img/research_harmonization.png" title="research_harmonization"   class="img-fluid z-depth-1" %}
 
 *References*
 
@@ -46,7 +46,7 @@ nav: true
 
 ### Time series
 
-{% include figure.html path="assets/img/research_timeseries.png" title="research_timeseries"  class="img-fluid"  %}
+{% include figure.html path="assets/img/research_timeseries.png" title="research_timeseries"  class="img-fluid z-depth-1"  %}
 
 *References*
 
@@ -57,7 +57,7 @@ nav: true
 
 ### Statistical genetics 
 
-{% include figure.html path="assets/img/research_statgen.png" title="research_statgen" class="img-fluid" %}
+{% include figure.html path="assets/img/research_statgen.png" title="research_statgen" class="img-fluid z-depth-1" %}
 
 *References*
 
