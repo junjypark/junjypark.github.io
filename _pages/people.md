@@ -9,22 +9,17 @@ nav: true
 
 ### Current students
 
+**Rongqian Zhang (PhD candidate, 2021-present)**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-    **Rongqian Zhang (PhD candidate, 2021-present)** <br />
-    I am a Ph.D. student in the Department of Statistical Sciences at the University of Toronto, supervised by Jun Young Park. I earned a Bachelor's Degree in Economical Statistics from the Renmin University of China and a Master's Degree in Applied Statistics from the University of Michigan. My research interests are high-dimensional data, spatial statistics and neuroimaging data analysis. <br />
-    *Achievements* <br />
-- [Data Science Institute's Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-student-fellowship/) <br />
+{% include figure.html path="assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
+
+I am a Ph.D. student in the Department of Statistical Sciences at the University of Toronto, supervised by Jun Young Park. I earned a Bachelor's Degree in Economical Statistics from the Renmin University of China and a Master's Degree in Applied Statistics from the University of Michigan. My research interests are high-dimensional data, spatial statistics and neuroimaging data analysis.
+
+*Achievements*
+
+- [Data Science Institute's Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-student-fellowship/)
 
 - Student paper award (runner-up) in Statistical Methods in Imaging (SMI) Conference 2022
-
-    </div>
-</div>  
-    
 
 **Yuan Tian (PhD candidate, 2021-present)**
 
