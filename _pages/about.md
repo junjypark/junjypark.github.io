@@ -4,7 +4,7 @@ title: about
 order: 1
 permalink: /
 subtitle: <a href="https://www.statistics.utoronto.ca/people/directories/all-faculty/jun-young-park"> Assistant Professor, University of Toronto</a>
-
+ 
 profile:
   align: right
   image: junyoungpark1.jpeg
