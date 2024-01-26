@@ -41,7 +41,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 *Achievements*
 
-- Multidisciplinary doctoral (MDoc) program trainee
+- [Multidisciplinary doctoral (MDoc) program trainee](https://canssiontario.utoronto.ca/announcing-canssi-ontarios-2022-cohort-of-mdoc-program-trainees-ruyi-pan/news/)
 
 - [Andrews Academic Achievement Award](https://www.statistics.utoronto.ca/news/congratulations-our-2021-graduate-student-departmental-award-winners), Department of Statistical Sciences
 
