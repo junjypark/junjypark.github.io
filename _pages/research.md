@@ -12,7 +12,7 @@ nav: true
 {% include figure.html path="assets/img/research_spatial.png" title="research_spatial"  class="img-fluid z-depth-1"  %}
 
 
-*References*
+*References* 
 
 - **Pan, R.**, Dickie, E. W., Hawco, C., Reid, N., Voineskos, A. N., **Park, J. Y.** (2023). Spatial-extent inference for testing variance components in reliability and heritability studies. *Imaging Neuroscience*.
 
