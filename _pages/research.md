@@ -39,7 +39,7 @@ nav: true
 
 *References*
 
-- **Zhang, R.**, **Chen, L.**, Oliver, L. D., Voineskos, A. N.,  **Park, J. Y.** (2023). SAN: mitigating spatial covariance heterogeneity in cortical thickness data collected from multiple scanners or sites. *bioRxiv*, 2023-12.
+- **Zhang, R.**, **Chen, L.**, Oliver, L. D., Voineskos, A. N.,  **Park, J. Y.** (2024). SAN: mitigating spatial covariance heterogeneity in cortical thickness data collected from multiple scanners or sites. *Human Brain Mapping*, In press.
 
 - **Zhang, R.**, Oliver, L. D., Voineskos, A. N.,  **Park, J. Y.** (2023). RELIEF: A structured multivariate approach for removal of latent inter-scanner effects. *Imaging Neuroscience*, 1, 1-16.
 
