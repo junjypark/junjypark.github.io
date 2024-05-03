@@ -3,7 +3,7 @@ layout: page
 permalink: /openpositions/
 title: open positions
 order: 6
-description: 
+description:  
 nav: true
 ---
  
