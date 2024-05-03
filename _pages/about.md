@@ -27,4 +27,4 @@ My [Curriculum Vitae](https://github.com/junjypark/junjypark.github.io/blob/mast
 
 ### Open positions
 
-We are seeking (up to) two PhD students in the 2023-24 admission cycle. Please visit [this page](https://junjypark.github.io/openpositions/) for details.
+There is currently no open position available, as of May 2024. Open positions for the next year will be announced here in August 2024.
