@@ -14,7 +14,8 @@ I currently do not have *open positions*, but I do have funding for one postdoct
 
 ​**Joining the group as a PhD student**
 
-I have up to two Statistics PhD openings in the 2023-2024 admission cycle, where both domestic and international applicants are eligible. Prospective students must apply directly to the graduate program by November and indicate me as a preferred supervisor. If you are interested in working with me, please attach (i) your CV, (ii) academic records (i.e. unofficial transcripts), and (iii) a brief statement describing your research interest. 
+
+There is currently no open position available, as of May 2024. Open positions for the next year will be announced here in August 2024. Prospective PhD students must apply directly to the graduate program by November and indicate me as a preferred supervisor. If you are interested in working with me, please attach (i) your CV, (ii) academic records (i.e. unofficial transcripts), and (iii) a brief statement describing your research interest.
 
 *Note for prospective PhD students in Psychology*
 
@@ -22,5 +23,4 @@ Please note that my current research program requires more training in quantitat
 
 ​**Joining the group as a master's or undergraduate student**
 
-Depending on project availabilities, I might have openings for paid research assistants. I currently do not consider unpaid volunteers, but please contact me if you're interested in a reading course. In Fall 2023, I don't have any plans to supervise reading courses.
-
+Depending on project availabilities, I might have openings for paid research assistants. I currently do not consider unpaid volunteers, but please contact me if you're interested in a reading course. 
