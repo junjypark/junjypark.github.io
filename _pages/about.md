@@ -2,7 +2,7 @@
 layout: about
 title: about
 order: 1
-permalink: /
+permalink: / 
 subtitle: <a href="https://www.statistics.utoronto.ca/people/directories/all-faculty/jun-young-park"> Assistant Professor, University of Toronto</a>
  
 profile:
