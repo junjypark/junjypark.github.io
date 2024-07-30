@@ -10,12 +10,13 @@ nav: true
 
 **Joining the group as a postdoc**
 
-I currently do not have *open positions*, but I do have funding for one postdoctoral fellow, with a tentative start date between May 2024 and August 2024. An ideal candidate would have a PhD degree in Statistics, Biostatistics, Computer Science, or a closely related area, with a demonstrated capacity to conduct high-quality research. If you are interested, please send me your CV and names of 3 references. 
+I currently do not have *open positions* for postdoc positions, and openings would be available in November 2024.
 
 ​**Joining the group as a PhD student**
 
+There are two PhD openings for 2025. Prospective PhD students must apply directly to the graduate program by November 2024 and indicate me as one of preferred supervisors. It is expected that applicants completed core statistics courses in probablity, math statistics, and applied statistics at minimum, and strong math *or* programming skills would be ideal. 
 
-There is currently no open position available, as of May 2024. Open positions for the next year will be announced here in August 2024. Prospective PhD students must apply directly to the graduate program by November and indicate me as a preferred supervisor. If you are interested in working with me, please attach (i) your CV, (ii) academic records (i.e. unofficial transcripts), and (iii) a brief statement describing your research interest.
+If you have any inquiries, feel free to reach out to me by sending an email with the title "**Prospective student**" and  your CV and unofficial transcript attached. 
 
 *Note for prospective PhD students in Psychology*
 
