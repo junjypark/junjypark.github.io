@@ -27,4 +27,4 @@ My [Curriculum Vitae](https://github.com/junjypark/junjypark.github.io/blob/mast
 
 ### Open positions
 
-There is currently no open position available, as of May 2024. Open positions for the next year will be announced here in August 2024.
+Information on open positions for 2025 is available [here](https://junjypark.github.io/openpositions/).
