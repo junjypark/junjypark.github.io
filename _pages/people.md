@@ -69,13 +69,17 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 - Vector Scholarship in Artificial Intelligence
 
-**Hainan Xu (Research Assistant, 2023-present)** 
+
 
 
 ### Former students
 
-**Xiaoli Yang (undergraduate RA (2021))** -> MS Statistics/Data Science at Stanford.
+**Helena (Yunzhu) Li (undergraduate RA (2024))**
 
-**Linxi Chen (undergraduate researcher (2022))** -> MS Statistics at Oxford.
+**Hainan Xu (Research Assistant, 2023-2024)** 
 
-**Zhengdan Li (undergraduate researcher (2022))** [Personal website](https://avery7li.github.io/) -> MS Statistics/Data Science at Stanford.
+**Xiaoli Yang (undergraduate RA, 2021)** 
+
+**Linxi Chen (undergraduate researcher, 2022)** 
+
+**Zhengdan Li (undergraduate researcher (2022))** 
