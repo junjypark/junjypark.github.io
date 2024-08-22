@@ -7,7 +7,7 @@ description:
 nav: true
 ---
  
-### Current students
+### Current members
 
 **Rongqian Zhang (PhD candidate, 2021-present)** [Personal website](https://rongqianzhang-ut.github.io/rongqianzhang.github.io/)
 
@@ -72,7 +72,7 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 
 
-### Former students
+### Former members
 
 **Helena (Yunzhu) Li (undergraduate RA (2024))**
 
