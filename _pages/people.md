@@ -74,12 +74,13 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 
 ### Former members
 
-**Helena (Yunzhu) Li (undergraduate RA (2024))**
+**Helena (Yunzhu) Li (undergraduate RA, 2024)**
 
 **Hainan Xu (Research Assistant, 2023-2024)** 
 
-**Xiaoli Yang (undergraduate RA, 2021)** 
-
 **Linxi Chen (undergraduate researcher, 2022)** 
 
-**Zhengdan Li (undergraduate researcher (2022))** 
+**Zhengdan Li (undergraduate researcher, 2022)** 
+
+**Xiaoli Yang (undergraduate RA, 2021)** 
+
