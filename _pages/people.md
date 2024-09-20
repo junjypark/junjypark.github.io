@@ -70,11 +70,12 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 - Vector Scholarship in Artificial Intelligence
 
 
+**Liyan Wang (Undergraduate RA, 2024-present)** 
 
 
 ### Former members
 
-**Helena (Yunzhu) Li (undergraduate RA, 2024)**
+**Helena (Yunzhu) Li (undergraduate Researcher, 2024)**
 
 **Hainan Xu (Research Assistant, 2023-2024)** 
 
