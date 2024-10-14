@@ -9,7 +9,7 @@ nav: true
  
 ### Current members
 
-**Rongqian Zhang (PhD candidate, 2021-present)** [Personal website](https://rongqianzhang-ut.github.io/portfolio/
+**Rongqian Zhang (PhD candidate, 2021-present)** [Personal website](https://rongqianzhang-ut.github.io/portfolio/)
 
 {% include figure.html path="assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
 
