@@ -62,6 +62,9 @@ nav: true
 
 *References*
 
+- **Tian, Y.**, Felsky, D., Gronsbell, J., Park, J. Y. (2024). Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer’s disease.
+
+
 
 - **Park, J. Y.**, Wu, C., Basu, S., McGue, M.,  Pan, W. (2018). Adaptive SNP-set association testing in generalized linear mixed models with application to family studies. *Behavior genetics*, 48, 55-66.
 
