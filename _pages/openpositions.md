@@ -14,7 +14,7 @@ I am seeking one postdoctoral fellow to work on developing statistical or machin
 
 ​**Joining the group as a PhD student**
 
-There are two PhD openings for 2025. Prospective PhD students must apply directly to the graduate program by November 2024 and indicate me as one of preferred supervisors. It is expected that applicants completed core statistics courses in probablity, math statistics, and applied statistics at minimum, and strong math *or* programming skills would be ideal. 
+There are two PhD openings for 2025. Prospective PhD students must apply directly to the graduate program by **November 22, 2024** and indicate me as one of preferred supervisors. It is expected that applicants completed core statistics courses in probablity, math statistics, and applied statistics at minimum, and strong math *or* programming skills would be ideal. 
 
 If you have any inquiries, feel free to reach out to me by sending an email with the title "**Prospective student**" and  your CV and unofficial transcript attached. 
 
