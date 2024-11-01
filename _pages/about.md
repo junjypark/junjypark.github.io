@@ -27,4 +27,4 @@ My [Curriculum Vitae](https://github.com/junjypark/junjypark.github.io/blob/mast
 
 ### Open positions
 
-Information on open positions for 2025 is available [here](https://junjypark.github.io/openpositions/).
+Information on open positions is available [here](https://junjypark.github.io/openpositions/). We are seeking 1 postdoctoral fellow and (up to) 2 PhD students to join in 2025.
