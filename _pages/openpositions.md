@@ -10,7 +10,7 @@ nav: true
 
 **Joining the group as a postdoc**
 
-I currently do not have *open positions* for postdoc positions, and openings would be available in November 2024.
+I am seeking one postdoctoral fellow to work on developing statistical or machine learning methods for neuroimaging data. Postodoctoral fellowship opportunity is provided by the University of Toronto's Data Science Institute [link](https://datasciences.utoronto.ca/postdoctoral-fellowship/), which has the application deadline of **February 7, 2025**. Students interested in applying should reach out potential supervisors about project availabilities, and it is encouraged to discuss with me as early as possible. An ideal background would be a Ph.D degree (or equivalent) in Statistics, Biostatistics, Computational Neuroscience,  Quantitative Psychology, or related fields. 
 
 ​**Joining the group as a PhD student**
 
