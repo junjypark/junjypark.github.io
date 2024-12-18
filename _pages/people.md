@@ -53,7 +53,7 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 - University of Toronto Arts and Science Recognition of Excellence Award
 
 
-**David Veitch (PhD candidate, 2022-present)** [Personal website](https://daveveitch.github.io/)/[Googlge scholar](https://scholar.google.com/citations?user=dw5wyocAAAAJ&hl=en)
+**David Veitch (PhD candidate, 2022-present)** [Personal website](https://daveveitch.github.io/)/[Google Scholar](https://scholar.google.com/citations?user=dw5wyocAAAAJ&hl=en)
 
 {% include figure.html path="assets/img/DavidVeitch.png" title="David Veitch" class="img-fluid rounded z-depth-1" %}
 
