@@ -72,7 +72,6 @@ I am a PhD candidate in statistics at the University of Toronto co-supervised by
 - Vector Scholarship in Artificial Intelligence
 
 
-**Liyan Wang (Undergraduate RA, 2024-present)** 
 
 
 ### Former members
