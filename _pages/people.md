@@ -11,7 +11,7 @@ nav: true
 
 **Rongqian Zhang (PhD candidate, 2021-present)** [Personal website](https://rongqianzhang-ut.github.io/portfolio/)/[Google Scholar](https://scholar.google.ca/citations?user=K7hzlagAAAAJ&hl=en)
 
-{% include figure.html path="assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="/assets/img/RongqianZhang.png" title="Rongqian Zhang" class="img-fluid rounded z-depth-1" %}
 
 I am a Ph.D. student in the Department of Statistical Sciences at the University of Toronto, supervised by Jun Young Park. I earned a Bachelor's Degree in Economical Statistics from the Renmin University of China and a Master's Degree in Applied Statistics from the University of Michigan. My research interests are high-dimensional data, spatial statistics and neuroimaging data analysis.
 
