@@ -44,6 +44,8 @@ I’m a PhD Student in the Department of Statistical Sciences at the University 
 
 *Achievements*
 
+- Student paper award (runner-up), ASA Statistics in Imaging section 2025
+
 - Early Research Excellence Award, Department of Statistical Sciences, University of Toronto
 
 - [Multidisciplinary doctoral (MDoc) program trainee](https://canssiontario.utoronto.ca/announcing-canssi-ontarios-2022-cohort-of-mdoc-program-trainees-ruyi-pan/news/)
