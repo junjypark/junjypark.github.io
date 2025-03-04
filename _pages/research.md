@@ -18,7 +18,7 @@ nav: true
 
 - **Pan, R.**, Dickie, E. W., Hawco, C., Reid, N., Voineskos, A. N., **Park, J. Y.** (2023). Spatial-extent inference for testing variance components in reliability and heritability studies. *Imaging Neuroscience*.
 
-- Weinstein, S. M., Vandekar, S. N., Baller, E. B., Tu, D., Adebimpe, A., Tapera, T. M., ... **Park, J. Y.** (2022). Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence. *NeuroImage*, 264, 119712.
+- Weinstein, S. M., Vandekar, S. N., Baller, E. B., Tu, D., Adebimpe, A., Tapera, T. M., ... **Park, J. Y.** (2022). Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence. *NeuroImage*, 264, 119712. 
  
 
 - **Park, J. Y.**, Fiecas, M. (2022). CLEAN: Leveraging spatial autocorrelation in neuroimaging data in clusterwise inference. *NeuroImage*, 255, 119192.
