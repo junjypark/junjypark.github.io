@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 order: 5
 description: 
-nav: true
+nav: true 
 ---
 
 ### Graduate Courses
