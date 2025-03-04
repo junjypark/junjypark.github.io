@@ -18,6 +18,6 @@ Please see the [Google Scholar](https://scholar.google.com/citations?hl=en&user=
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+</div> 
  
  
