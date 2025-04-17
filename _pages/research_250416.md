@@ -58,7 +58,7 @@ nav: true
 
 ### Statistical genetics 
 
-{% include figure.html path="assets/img/research_statgen.png" title="research_statgen" class="img-fluid z-depth-1" %}
+{% include figure.html path="assets/img/research_statgen2.png" title="research_statgen" class="img-fluid z-depth-1" %}
 
 *References*
 
