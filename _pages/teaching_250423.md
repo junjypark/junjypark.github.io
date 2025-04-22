@@ -13,14 +13,14 @@ nav: true
 
 - **STA2006 Applied Stochastic Processes (cross-listed with STA447 (undergraduate)**: Offered in Winter 2021, 2022
 
-- **STA2101 Methods of Applied Statistics I**: offered in Fall **2024**
+- **STA2101 Methods of Applied Statistics I**: offered in Fall 2024, **2025**
 
 ### Undergraduate Courses
 
 - **STA447 Stochastic Processes (cross-listed with STA2006 (graduate))**: offered in Winter 2021, 2022
 
-- **STA442 Methods of Applied Statistics**: offered in Fall 2023, **2024**
+- **STA442 Methods of Applied Statistics**: offered in Fall 2023, 2024, **2025**
 
-- **PSY305 Treatment of Psychological Data**: offered in Winter 2023, 2024, **2025**
+- **PSY305 Treatment of Psychological Data**: offered in Winter 2023, 2024, 2025, **2026**
 
  
