@@ -14,7 +14,7 @@ nav: true
 
 *References* 
 
-- Weinstein, S. M., Tu, D., Hu, F., **Pan, R.**, **Zhang, R.**, Baller, E.B., ... **Park, J.Y** (2024). Mapping individual differences in intermodal coupling in neurodevelopment. *BioRxiv*
+- **Pan, R.**, Weinstein, S. M., Tu, D., Hu, F., Tanriverdi, B, **Zhang, R.**, Baller, E.B., ... **Park, J.Y** (2024). Mapping individual differences in intermodal coupling in neurodevelopment. *BioRxiv*
 
 - **Pan, R.**, Dickie, E. W., Hawco, C., Reid, N., Voineskos, A. N., **Park, J. Y.** (2023). Spatial-extent inference for testing variance components in reliability and heritability studies. *Imaging Neuroscience*.
 
