@@ -62,7 +62,7 @@ nav: true
 
 *References*
 
-- **Tian, Y.**, Felsky, D., Gronsbell, J., **Park, J. Y.** (2024). Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer’s disease. *Imaging Neuroscience* 
+- **Tian, Y.**, Felsky, D., Gronsbell, J., **Park, J. Y.** (2025). Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer’s disease. *Imaging Neuroscience* 
 
 
 
