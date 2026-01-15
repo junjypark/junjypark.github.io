@@ -41,6 +41,8 @@ nav: true
 
 *References*
 
+- **Zhang, R.**, Tuzhilina, E.,  **Park, J. Y.** (2026). Sparse covariate-driven factorization of high-dimensional brain connectivity with application to site effect correction. *Arxiv*, Arxiv:2601.09525.
+
 - **Zhang, R.**, **Chen, L.**, Oliver, L. D., Voineskos, A. N.,  **Park, J. Y.** (2024). SAN: mitigating spatial covariance heterogeneity in cortical thickness data collected from multiple scanners or sites. *Human Brain Mapping*, 45:e26692.
 
 - **Zhang, R.**, Oliver, L. D., Voineskos, A. N.,  **Park, J. Y.** (2023). RELIEF: A structured multivariate approach for removal of latent inter-scanner effects. *Imaging Neuroscience*, 1, 1-16.
