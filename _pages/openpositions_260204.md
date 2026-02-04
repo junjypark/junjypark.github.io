@@ -22,4 +22,4 @@ The application deadline is typically by the end of November, and all applicatio
 
 ​**Joining the group as a master's or undergraduate student**
 
-For the 2025–26 academic year, I do not have openings for research assistants. I might have limited availability for a reading course, and interested students should contact me by **August 15** with a short statement of interest, CV, and transcripts.
+Our group is seeking one undergraduate RA during summer 2026, supported by UTEA or USRA, who will be conducting research in motion correction in functional neuroimaging. Please check out the departmental announcement for details.
