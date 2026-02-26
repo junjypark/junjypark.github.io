@@ -54,7 +54,7 @@ nav: true
 *References*
 
 
-- **Veitch, D.**, He, Y.,  **Park, J. Y.** (2023). Rank-adaptive covariance changepoint detection for estimating dynamic functional connectivity from fMRI data. *arXiv*, arXiv:2309.10284.
+- **Veitch, D.**, He, Y.,  **Park, J. Y.** (2023). Rank-adaptive covariance testing with applications to genomics and neuroimaging. *Biometrics*(accepted), arXiv:2309.10284.
 
 - **Park, J. Y.**, Polzehl, J., Chatterjee, S., Brechmann, A., Fiecas, M. (2020). Semiparametric modeling of time-varying activation and connectivity in task-based fMRI data. *Computational Statistics & Data Analysis*, 150, 107006.
 
