@@ -31,6 +31,8 @@ nav: true
 
 *References*
 
+- **Pan, R.**, He, Y., **Park, J. Y.** (2026+). Boosting multi-view association testing via devariation. *ArXiv*.
+
 - Lock, E. F., **Park, J. Y.**,  Hoadley, K. A. (2022). Bidimensional linked matrix factorization for pan-omics pan-cancer analysis. *The Annals of Applied Statistics*, 16(1), 193.
 
 - **Park, J. Y.**,  Lock, E. F. (2020). Integrative factorization of bidimensionally linked matrices. *Biometrics*, 76(1), 61-74.
@@ -54,7 +56,7 @@ nav: true
 *References*
 
 
-- **Veitch, D.**, He, Y.,  **Park, J. Y.** (2023). Rank-adaptive covariance testing with applications to genomics and neuroimaging. *Biometrics*(accepted), arXiv:2309.10284.
+- **Veitch, D.**, He, Y.,  **Park, J. Y.** (2026). Rank-adaptive covariance testing with applications to genomics and neuroimaging. *Biometrics*.
 
 - **Park, J. Y.**, Polzehl, J., Chatterjee, S., Brechmann, A., Fiecas, M. (2020). Semiparametric modeling of time-varying activation and connectivity in task-based fMRI data. *Computational Statistics & Data Analysis*, 150, 107006.
 
