@@ -217,7 +217,7 @@ scholar:
   style: apa
   locale: en
 
-  version: "202608051"
+  version: "202608061"
 
   source: /_bibliography/
   bibliography: papers.bib
