@@ -31,6 +31,8 @@ nav: true
 
 *References*
 
+- **Park, J. Y.**,  MacDonald, P. W. (2026+). Group-regularized matrix factorization for fast and reliable module discovery in pan-omics pan-cancer studies. *ArXiv*.
+
 - **Pan, R.**, He, Y., **Park, J. Y.** (2026+). Boosting multi-view association testing via devariation. *ArXiv*.
 
 - Lock, E. F., **Park, J. Y.**,  Hoadley, K. A. (2022). Bidimensional linked matrix factorization for pan-omics pan-cancer analysis. *The Annals of Applied Statistics*, 16(1), 193.
@@ -67,8 +69,6 @@ nav: true
 *References*
 
 - **Tian, Y.**, Felsky, D., Gronsbell, J., **Park, J. Y.** (2025). Leveraging multimodal neuroimaging and GWAS for identifying modality-level causal pathways to Alzheimer’s disease. *Imaging Neuroscience* 
-
-
 
 - **Park, J. Y.**, Wu, C., Basu, S., McGue, M.,  Pan, W. (2018). Adaptive SNP-set association testing in generalized linear mixed models with application to family studies. *Behavior genetics*, 48, 55-66.
 
