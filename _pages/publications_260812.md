@@ -15,7 +15,7 @@ Please see the [Google Scholar](https://scholar.google.com/citations?hl=en&user=
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers_260810 -q @*[year={{y}}]* %}
+  {% bibliography -f papers_260812 -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div> 
